@@ -14,9 +14,7 @@ A comprehensive web-based tool for designing, simulating, and validating multiro
 
 ### Advanced Analytics
 -   **System Validation**: Automatic checks for common issues (e.g., motor over-current, battery sag, insufficient TWR).
-```markdown
 -   **Interactive UI**: Glassmorphic result cards with real-time, color-coded validation status.
-```
 -   **PDF Export**: Generate detailed reports of your drone configuration.
 -   **Shareable Configs**: Save and load full configurations to/from local storage or files.
 
